@@ -3,10 +3,10 @@
 echo "Starting to install utility apps..."
 
 sudo apt install -y \
+software-properties-common \
 curl \
 git \
 htop \
-mc \
-software-properties-common
+mc
 
 echo "...Utility apps was installed."
