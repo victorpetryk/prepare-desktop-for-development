@@ -2,7 +2,7 @@
 
 echo "Starting to create folder structure..."
 
-cd ~
+cd ~ || exit
 mkdir -p workflow/code
 mkdir -p workflow/data
 mkdir -p workflow/repositories

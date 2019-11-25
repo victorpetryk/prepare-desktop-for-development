@@ -9,7 +9,7 @@ sudo snap install skype --classic
 sudo snap install telegram-desktop
 
 # Install Viber
-cd ~/Downloads
+cd ~/Downloads || exit
 wget https://download.cdn.viber.com/cdn/desktop/Linux/viber.deb
 sudo dpkg -i viber.deb
 sudo apt install -f -y
