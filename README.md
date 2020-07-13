@@ -9,8 +9,8 @@ You can comment steps that not needed in main file.
 1. Create folder structure.
 2. Install utility apps.
 3. Install "Oracle Java".
-4. Install "Oh My ZSH".
-5. Install "Docker".
-6. Install editors.
-7. Install browsers.
-8. Install messengers.
+4. Install "Docker".
+5. Install editors.
+6. Install browsers.
+7. Install messengers.
+8. Install "Oh My ZSH".
